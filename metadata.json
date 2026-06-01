@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Agent Studio",
+  "description": "An enterprise-grade platform to build custom AI agents, connect them to business apps and data (PostgreSQL, Slack, Jira, Hubspot), and orchestrate them in real time with server-side AI execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
